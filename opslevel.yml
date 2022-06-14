@@ -88,3 +88,9 @@ service:
   - alias: catalog_service
   - alias: order_workflow_service
   - alias: product_image_service
+repository:
+  tier: tier_1
+  owner: order_management_team
+  tags:
+  - key: version
+    value: v1.0.0
