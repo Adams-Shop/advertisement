@@ -1,6 +1,7 @@
 ---
 version: 1
 service:
+  type:public
   name: Advertising Service
   lifecycle: generally_available
   tier: tier_1
