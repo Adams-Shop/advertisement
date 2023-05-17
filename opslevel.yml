@@ -7,6 +7,7 @@ service:
   product: Retail Website
   owner: order_management_team
   language: Ruby
+  language: Test
   framework: Rails
   description: Allows users to add/remove products in their virtual shopping carts
     prior to placing an order.
